@@ -1,0 +1,8 @@
+Version 1.0.0
+    * Primera version del paquete de Python, equivalente al paquete de R datasethgg.
+    * Clases Attribute, NumericAttribute, CategoricalAttribute y Dataset.
+    * Discretizacion (igual anchura e igual frecuencia), normalizacion y estandarizacion.
+    * Metricas por variable (varianza, AUC y entropia), filtrado de variables.
+    * Correlacion e informacion mutua por pares.
+    * Graficos: curva ROC, AUC, entropia y mapas de calor.
+    * Lectura y escritura de datasets en CSV.
